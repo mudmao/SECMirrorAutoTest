@@ -1,0 +1,2 @@
+# SECMirrorAutoTest
+MR auto scan
